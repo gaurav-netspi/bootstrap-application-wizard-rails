@@ -1,5 +1,5 @@
 module BootstrapApplicationWizard
   module Rails
-    VERSION = '13.3.3-3b840242'
+    VERSION = '13.3.4'
   end
 end
